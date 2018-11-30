@@ -1,5 +1,14 @@
-{[
-    ['happyface', 'http://feeds.megaphone.fm/happyface'],
-    ['up', 'https://rss.art19.com/up-and-vanished'],
-    ['dd', 'https://rss.cast.plus/5b9301029cafaf060e15aec3/rss'],
-]}
+[
+   {
+		"pod": "happyface",
+		"url": "http://feeds.megaphone.fm/happyface"
+	},
+	{
+		"pod": "up",
+		"url": "https://rss.art19.com/up-and-vanished"
+	},
+	{
+		"pod": "dd",
+		"url": "https://rss.cast.plus/5b9301029cafaf060e15aec3/rss"
+	}
+]
