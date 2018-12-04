@@ -10,5 +10,9 @@
 	{
 		"pod": "dd",
 		"url": "https://rss.cast.plus/5b9301029cafaf060e15aec3/rss"
+	},
+	{
+		"pod": "pet",
+		"url": "https://rss.whooshkaa.com/rss/podcast/id/3289"
 	}
 ]
