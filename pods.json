@@ -14,5 +14,9 @@
 	{
 		"pod": "pet",
 		"url": "https://rss.whooshkaa.com/rss/podcast/id/3289"
+	},
+	{
+		"pod" "death",
+		"url": "https://rss.art19.com/dr-death"
 	}
 ]
