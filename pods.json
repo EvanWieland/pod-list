@@ -18,5 +18,9 @@
 	{
 		"pod": "death",
 		"url": "https://rss.art19.com/dr-death"
+	},
+	{
+		"pod": "uncover",
+		"url": "https://www.cbc.ca/podcasting/includes/uncover.xml"
 	}
 ]
