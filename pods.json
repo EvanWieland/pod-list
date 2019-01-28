@@ -1,5 +1,6 @@
 
-   	{
+[   	
+	{
 		"pod": "happyface",
 		"url": "http://feeds.megaphone.fm/happyface"
 	},
@@ -23,3 +24,4 @@
 		"pod": "uncover",
 		"url": "https://www.cbc.ca/podcasting/includes/uncover.xml"
 	}
+]
