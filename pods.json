@@ -23,5 +23,9 @@
 	{
 		"pod": "uncover",
 		"url": "https://www.cbc.ca/podcasting/includes/uncover.xml"
+	},
+	{
+		"pod": "culp",
+		"url": "https://feeds.megaphone.fm/culpable"
 	}
 ]
