@@ -31,5 +31,9 @@
 	{
 		"pod": "cosby",
 		"url": "https://rss.art19.com/chasing-cosby"
-	}
+	},
+	{
+		"pod": "yob",
+		"url": "http://yourownbackyard.libsyn.com/rss"
+	},
 ]
