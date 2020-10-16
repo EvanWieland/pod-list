@@ -34,5 +34,9 @@
 	{
 		"pod": "yob",
 		"url": "http://yourownbackyard.libsyn.com/rss"
+	},
+	{
+		"pod": "ab",
+		"url": "https://anchor.fm/s/2c5b03fc/podcast/rss"
 	}
 ]
