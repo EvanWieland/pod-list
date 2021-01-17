@@ -38,5 +38,9 @@
 	{
 		"pod": "ab",
 		"url": "https://podcasts.bitsmithy.io/public/ab.xml"
+	},
+	{
+		"pod": "rh",
+		"url": "https://feeds.simplecast.com/oCXij9l2"
 	}
 ]
